@@ -12,6 +12,5 @@ namespace ApiUnikey
 
         public string Summary { get; set; }
 
-        public int pippo;
     }
 }
